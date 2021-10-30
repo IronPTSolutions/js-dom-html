@@ -1,0 +1,14 @@
+
+.box {
+  width: 70px;
+  height: 70px;
+  background-color: rgba(234, 125, 12, 0.5);
+}
+
+.task-completed {
+  text-decoration: line-through;
+}
+
+.task-completed .task-actions {
+  display: none;
+}
